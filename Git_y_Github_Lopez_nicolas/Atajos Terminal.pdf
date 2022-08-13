@@ -1,0 +1,7 @@
+git init     crea un repositorio local
+git add      agrega un archivo
+git add .    agrega todos los archivos
+git status   estado de los archivos
+git commit -m genera un commit 
+git push origin main  envia el comit a la rama main
+git remote -v     hay que poner la url que figura en github para unir el repositorio con el trabajo

@@ -6,3 +6,23 @@ a. Git es un software de control de versiones diseñado por Linus Torvalds, pens
 b. GitHub Inc. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
 La compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más
 c. si se puede desde el add file del repositorio en la app de git hub
+
+Comandos git: Cheatsheet
+
+git init
+git config --global user.name "dasdo"
+git config --global user.email dasdo1@gmail.com
+git clone <url>
+git add .
+git commit -m "Texto que identifique por que se hizo el commit"
+git push origin master
+git add <archivo>
+git log
+git reset <archivo>
+git remote add origin <url>
+git branch <nameBranch>
+git status
+git checkout <nameBranch>
+git checkout -b newlocalbranchname origin/branch-name
+git pull origin <nameBranch>
+git merge <nameBranch>

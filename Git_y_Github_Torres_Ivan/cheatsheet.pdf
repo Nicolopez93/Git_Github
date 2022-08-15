@@ -1,0 +1,4 @@
+clonar un repositorio existente
+git clone "link"
+Crear un nuevo repositorio local
+git init
